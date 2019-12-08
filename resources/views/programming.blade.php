@@ -46,19 +46,18 @@
             <br>
             <br>
             <div class="programmingTitle" data-aos="fade-left" data-aos-duration="1800">
-                Controller Code
             </div>
         </div>
         <div class="col-md-5 offset-1">
-            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/01/Riptide-GP-Renegade-screenshot.jpg" alt="">
+            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/GIFMovement.gif')}}" alt="">
             <br>
             <br>
             <div class="actionTitle" data-aos="fade-left" data-aos-duration="1800">
-                Action description
+                Controller Code
             </div>
             <br>
             <div class="actionDescription" data-aos="fade-left" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
+                Here is a reconstructed script derived from a character movement asset pack. Joystick controls for character movement; additionally scripted to orient controls regardless of camera angle change.
             </div>
         </div>
     </div>
@@ -74,12 +73,7 @@
     <br>
     <div class="row">
         <div class="col-md-5 offset-1">
-            <img style="width:650px;" data-aos="fade-right" data-aos-duration="1800" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/01/Riptide-GP-Renegade-screenshot.jpg" alt="">
-            <br>
-            <br>
-            <div class="actionTitle" data-aos="fade-right" data-aos-duration="1800">
-                Action description
-            </div>
+            <img style="width:650px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/GIFCamera.gif')}}" alt="">
         </div>
         <div class="col-md-5 offset-1">
             <img style="width:900px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodeCamera.jpg')}}" alt="">
@@ -90,7 +84,7 @@
             </div>
             <br>
             <div class="actionDescription" data-aos="fade-right" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
+                Here is another reconstructed script derived from a character movement pack that included a camera script aswell. Camera follow script with offset settings adjustable in serialized fields in Unity Engine.
             </div>
         </div>
     </div>
@@ -107,22 +101,17 @@
     <div class="row">
         <div class="col-md-5 offset-1">
             <img style="width:650px; height: 400px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/CodeCameraCollision.jpg')}}" alt="">
-            <br>
-            <br>
-            <div class="programmingTitle" data-aos="fade-left" data-aos-duration="1800">
-                Camera Collision Code
-            </div>
         </div>
         <div class="col-md-5 offset-1">
-            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/01/Riptide-GP-Renegade-screenshot.jpg" alt="">
+            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/GIFCameraCollision.gif')}}" alt="">
             <br>
             <br>
             <div class="actionTitle" data-aos="fade-left" data-aos-duration="1800">
-                Action description
+                Camera Collision Code
             </div>
             <br>
             <div class="actionDescription" data-aos="fade-left" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
+                Here is another reconstructed script derived from a character movement pack that included a camera script aswell. The original script was heavily incompatible for the indoors map of my project. Included in the camera script was these lines of code to enable the camera to automatically switch to a first-person point of view whenever a collision was detected.
             </div>
         </div>
     </div>
@@ -138,24 +127,19 @@
     <br>
     <div class="row">
         <div class="col-md-5 offset-1">
-            <img style="width:650px;" data-aos="fade-right" data-aos-duration="1800" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/01/Riptide-GP-Renegade-screenshot.jpg" alt="">
+            <img style="width:650px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/GIFPickUp.gif')}}" alt="">
             <br>
             <br>
             <div class="actionTitle" data-aos="fade-right" data-aos-duration="1800">
-                Action description
+                Pickup Code
             </div>
             <br>
             <div class="actionDescription" data-aos="fade-right" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
+                Here is a script made specifically made for my project. This script is central as it implements our key game mechanic in the real world mode of the game. It is a considerably basic script that is easy to manage. It includes a function similiar to another script I made to have UI appear when the Player comes within the range of colliders. This script is also to allow the Player to pick up the inventory holder (in this instance a noteboook to collect items that may fit into a book) and then only enable the ability to collect items when the item acting as the inventory holder has been collected as well.
             </div>
         </div>
         <div class="col-md-5 offset-1">
             <img style="width:600px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodePickUp2.jpg')}}" alt="">
-            <br>
-            <br>
-            <div class="programmingTitle" data-aos="fade-right" data-aos-duration="1800">
-                Pickup Code
-            </div>
         </div>
     </div>
     <br>
@@ -178,16 +162,11 @@
             </div>
             <br>
             <div class="actionDescription" data-aos="fade-left" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
+                Here is a very basic script made to allow a player to collect GameObjects tagged under "Orbs" to increase the brightness of the lights in the scene. This script coordinates with a script made to implement a mechanic that dims the scene lights at a set decay rate. This is also a central script as it is part of the game mechanic of the fantasy world mode of the game.
             </div>
         </div>
         <div class="col-md-5 offset-1">
-            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="https://cdn57.androidauthority.net/wp-content/uploads/2016/01/Riptide-GP-Renegade-screenshot.jpg" alt="">
-            <br>
-            <br>
-            <div class="actionTitle" data-aos="fade-left" data-aos-duration="1800">
-                Action description
-            </div>
+            <img style="width:650px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/GIFCollectLight.gif')}}" alt="">
         </div>
     </div>
 </div>
