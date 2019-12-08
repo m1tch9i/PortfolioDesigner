@@ -1,0 +1,140 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+@font-face {
+        font-family:'LEIXO';
+        src: url('/fonts/LEIXO-DEMO.ttf') format('truetype');
+        font-style: normal;
+        font-weight: normal;
+}
+
+@font-face {
+        font-family:'Quostige';
+        src: url('/fonts/Quostige.ttf') format('truetype');
+        font-style: normal;
+        font-weight: normal;
+}
+
+body{
+    background: black;
+    text-align: center;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    // font-family: "Quostige";
+    font-family: "LEIXO";
+    // padding-left: 20px;
+}
+
+a:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+a:active{
+    color: gold;
+    text-decoration: none;
+}
+
+.left{
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+
+.right{
+    text-align: center;
+}
+
+.title{
+    // border-style: solid;
+    // border-width: 1px;
+    font-family: "LEIXO";
+    padding-top: 15px;
+}
+
+.navigation{
+    // border-style: solid;
+    // border-width: 1px;
+    padding-top: 25px;
+}
+
+.logo{
+    width: 100px;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.titleHeader{
+    font-family: "LEIXO";
+    font-size: 100px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.subtitleHeader{
+    font-family: "LEIXO";
+    font-size: 75px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.contentHeader{
+    font-family: "Quostige";
+    font-size: 50px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.content{
+    font-family: "Quostige";
+    font-size: 20px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.embedHeader{
+    font-family: "LEIXO";
+    font-size: 40px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.subembedHeader{
+    font-family: "Quostige";
+    font-size: 30px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.programmingTitle{
+    font-family: "LEIXO";
+    font-size: 30px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.actionTitle{
+    font-family: "LEIXO";
+    font-size: 30px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+.actionDescription{
+    font-family: "Quostige";
+    font-size: 20px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
+
+footer{
+    font-family: "Quostige";
+    font-size: 20px;
+    // padding-left: 250px;
+    // padding-right: 250px;
+}
