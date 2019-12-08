@@ -61,27 +61,24 @@
         <br>
         <div class="row">
             <div class="col-9 offset-1">
-                <div class="embedHeader" data-aos="fade-right" data-aos-duration="1800">
-                    Embed Section Title
-                </div>
+                <img style="width: 600px;" src="{{url('/images/Title.png')}}" alt="" data-aos="fade-right" data-aos-duration="1800">
             </div>
         </div>
+        <br>
+        <br>
         <div class="row">
             <div class="col-9 offset-1">
                 <div class="subembedHeader" data-aos="fade-right" data-aos-duration="1800">
-                    Embed Section Subtitle
+                    by Team Trinity
                 </div>
             </div>
         </div>
-        <br>
-        <br>
-        <br>
         <br>
         <br>
         <div class="row">
             <div class="col-9 offset-1">
                 <div class="content" data-aos="fade-right" data-aos-duration="1800">
-                    This is your Embedded item paragraph. It’s a great place to add a description of your written, illustrated or visual content, as well as any other format that you have embedded in your site. Don’t hesitate to use this space to add valuable information for your users, and encourage them to take action.
+                    Brought to you by Team Trinity; comes a narrative driven game. In this interactive web portfolio, I exhibit my contributions of the work process that went into the making this passion project. Beginning as a concept inspired by the social cause of orphans to the creation of this gameplay experience to spread awareness and distill empathy.
                 </div>
             </div>
         </div>
