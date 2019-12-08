@@ -14,10 +14,10 @@
             <div class="col-2">
                 <img class="logo" src="{{url('/images/NameLogoWhite.png')}}" alt="">
             </div>
-            <div class="title left col-1">
+            <div class="title left col-2">
                 <a href="/">Michelle A. Kiew</a>
             </div>
-            <div class="navigation center col-1 offset-3">
+            <div class="navigation center col-1 offset-2">
                 <a href="/">Home</a>
             </div>
             <div class="navigation center col-1">

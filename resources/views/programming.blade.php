@@ -80,17 +80,17 @@
             <div class="actionTitle" data-aos="fade-right" data-aos-duration="1800">
                 Action description
             </div>
-            <br>
-            <div class="actionDescription" data-aos="fade-right" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
-            </div>
         </div>
         <div class="col-md-5 offset-1">
-            <img style="width:1200px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodeCamera.jpg')}}" alt="">
+            <img style="width:900px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodeCamera.jpg')}}" alt="">
             <br>
             <br>
             <div class="programmingTitle" data-aos="fade-right" data-aos-duration="1800">
                 Camera Code
+            </div>
+            <br>
+            <div class="actionDescription" data-aos="fade-right" data-aos-duration="1800">
+                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
             </div>
         </div>
     </div>
@@ -106,7 +106,7 @@
     <br>
     <div class="row">
         <div class="col-md-5 offset-1">
-            <img style="width:600px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/CodeCameraCollision.jpg')}}" alt="">
+            <img style="width:650px; height: 400px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/CodeCameraCollision.jpg')}}" alt="">
             <br>
             <br>
             <div class="programmingTitle" data-aos="fade-left" data-aos-duration="1800">
@@ -150,7 +150,7 @@
             </div>
         </div>
         <div class="col-md-5 offset-1">
-            <img style="width:800px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodePickUp2.jpg')}}" alt="">
+            <img style="width:600px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/CodePickUp2.jpg')}}" alt="">
             <br>
             <br>
             <div class="programmingTitle" data-aos="fade-right" data-aos-duration="1800">
@@ -170,11 +170,15 @@
     <br>
     <div class="row">
         <div class="col-md-5 offset-1">
-            <img style="width:600px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/CodeCollectLight.jpg')}}" alt="">
+            <img style="width:400px;" data-aos="fade-left" data-aos-duration="1800" src="{{url('/images/CodeCollectLight.jpg')}}" alt="">
             <br>
             <br>
             <div class="programmingTitle" data-aos="fade-left" data-aos-duration="1800">
                 Collect Light Code
+            </div>
+            <br>
+            <div class="actionDescription" data-aos="fade-left" data-aos-duration="1800">
+                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
             </div>
         </div>
         <div class="col-md-5 offset-1">
@@ -183,10 +187,6 @@
             <br>
             <div class="actionTitle" data-aos="fade-left" data-aos-duration="1800">
                 Action description
-            </div>
-            <br>
-            <div class="actionDescription" data-aos="fade-left" data-aos-duration="1800">
-                Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool Something Cool
             </div>
         </div>
     </div>

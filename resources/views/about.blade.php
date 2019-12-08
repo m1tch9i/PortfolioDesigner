@@ -22,7 +22,7 @@
     <br>
     <div class="row">
         <div class="col-5 offset-1">
-            <img style="width: 550px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/profile.jpeg')}}" alt="">
+            <img style="width: 340px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/profile.jpeg')}}" alt="">
         </div>
         <div class="col-4">
             <div class="content " data-aos="fade-right" data-aos-duration="1800">
