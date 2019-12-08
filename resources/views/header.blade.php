@@ -15,7 +15,7 @@
                 <img class="logo" src="{{url('/images/NameLogoWhite.png')}}" alt="">
             </div>
             <div class="title left col-1">
-                <a href="/"><h1>Title<h1></a>
+                <a href="/">Michelle A. Kiew</a>
             </div>
             <div class="navigation center col-1 offset-3">
                 <a href="/">Home</a>

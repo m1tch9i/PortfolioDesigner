@@ -14,6 +14,13 @@
     <br>
     <br>
     <br>
+    <div class="row">
+        <div class="col-9 offset-1">
+            <div class="content" data-aos="fade-right" data-aos-duration="1800">
+                Here I have just some of the 3D models of the elements of the environment. The program used for modelling was Maya Version 2019. For this project, there were 2 contrasting worlds to create: a normal reality as the world we live in and a fantasy world that was more abstract and whimsical. The goal was always to make both worlds in low poly as to make it more manageable for programming in Unity Engine during game development; as well as the fact that our game was made to be deployed on mobile devices.
+            </div>
+        </div>
+    </div>
     <br>
     <br>
     <br>

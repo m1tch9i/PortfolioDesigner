@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-9 offset-1">
                 <div class="titleHeader" data-aos="fade-right" data-aos-duration="1800">
-                    Title Intro
+                    INTRODUCTION
                 </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
         <div class="row">
             <div class="col-9 offset-1">
                 <div class="content" data-aos="fade-right" data-aos-duration="1800">
-                    ​Since beginning my journey in this field, my dedication to the work and motivation to grow have led me to exceptional projects and experiences. Take a moment to explore my portfolio below, which includes a combination of collaborations, commissioned work and side projects. Don’t hesitate to reach out if you’d like to learn more.
+                    Michelle Alexandra Kiew; a 3-year trained multimedia designer. For my final year project, I was Head of Programming, Game Environment 3D Modeller and Head Writer for the storyline of my team’s game project. My team and I collectively discussed and agreed on the overall vision for the game and delegated roles based on our strengths and preferred specialized roles. However, as the weeks progressed there was constant change in plans as we faced obstacle after obstacle. As much as our vision and large-scale decisions were affected so was the delegation of roles.
                 </div>
             </div>
         </div>

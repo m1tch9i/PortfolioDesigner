@@ -8,10 +8,10 @@
     <div class="row">
         <div class="col-9 offset-1">
             <div class="subtitleHeader " data-aos="zoom-out" data-aos-duration="1800">
-                The Full Story
+                ABOUT ME
             </div>
             <div class="contentHeader " data-aos="fade-right" data-aos-duration="1800">
-                All The Details
+                MICHELLE ALEXANDRA KIEW
             </div>
         </div>
     </div>
@@ -22,11 +22,12 @@
     <br>
     <div class="row">
         <div class="col-5 offset-1">
-            <img data-aos="fade-right" data-aos-duration="1800" src="https://static.wixstatic.com/media/e2a6170f392049e79b6b160955db44e6.jpg/v1/fill/w_460,h_540,al_c,q_80,usm_0.66_1.00_0.01/Digital%20Animator.webp" alt="">
+            <img style="width: 550px;" data-aos="fade-right" data-aos-duration="1800" src="{{url('/images/profile.jpeg')}}" alt="">
         </div>
         <div class="col-4">
             <div class="content " data-aos="fade-right" data-aos-duration="1800">
-                As a passionate and motivated professional, I’m constantly striving to improve my techniques, expand my skillset and find new opportunities to grow. Each of my projects - both solo and collaborative - have provided this growth and allowed me to establish myself within this competitive industry. Please enjoy my portfolio, and feel free to get in touch with any questions.
+                I am trained in 3D Modelling using the program Maya by Autodesk and coding in the programming language of C# script.
+                My passion is problem solving and delving into the depth of everything. I truly enjoy learning whether it be a new skill or simply attaining more knowledge. I would go as far as to refer to myself as a scholar; not to say that I am the best at everything, but I certainly have a hunger for knowledge. I constantly strive to ask the bigger questions and believe there’s always more to discover. I strive for excellence in my work but more specifically, delivering what people want. I want people to be satisfied with their product and beyond. I enjoy 3D modelling and photography; but am most in tuned to cinematography and video editing.
             </div>
         </div>
     </div>

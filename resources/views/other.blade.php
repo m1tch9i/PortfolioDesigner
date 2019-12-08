@@ -26,6 +26,14 @@
         </div>
     </div>
     <br>
+    <div class="row">
+        <div class="col-9 offset-1">
+            <div class="content" data-aos="fade-right" data-aos-duration="1800">
+                3D models from previous projects; all of which were also of low polys due to tris count limitations set by the assignment.
+            </div>
+        </div>
+    </div>
+    <br>
     <br>
     <br>
     <br>
@@ -129,6 +137,14 @@
     <div class="row">
         <div class="col-9 offset-1 subtitleHeader" data-aos="fade-left" data-aos-duration="1800">
             Photography & Film
+        </div>
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-9 offset-1">
+            <div class="content" data-aos="fade-right" data-aos-duration="1800">
+                A collection of old works in photography, video compositing, filming and light design.
+            </div>
         </div>
     </div>
     <br>

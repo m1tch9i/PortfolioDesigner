@@ -5,15 +5,32 @@
     <br>
     <div class="row">
         <div class="col-9 offset-1 titleHeader" data-aos="zoom-out" data-aos-duration="1800">
-            Programming
+            PROGRAMMING
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-9 offset-1 subtitleHeader" data-aos="zoom-out" data-aos-duration="1800">
+            C# SCRIPT
         </div>
     </div>
     <br>
     <br>
     <br>
     <div class="row">
-        <div class="col-9 offset-1 subtitleHeader" data-aos="fade-right" data-aos-duration="1800">
+        <div class="col-9 offset-1 contentHeader" data-aos="fade-right" data-aos-duration="1800">
             Important Scripts For The Game
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="row">
+        <div class="col-9 offset-1">
+            <div class="content" data-aos="fade-right" data-aos-duration="1800">
+                I was never a programmer by training. I was not well-versed in any programming language until my final year project. However, since this project my knowledge and understanding of C# scripting grew exponentially.
+                I spent a lot of time reading the Unity API Scripting Manual and watched many tutorial videos but only the ones I needed for the game my team and I were developing. Here are the most important scripts that were central to the functionality of our game project.
+            </div>
         </div>
     </div>
     <br>
