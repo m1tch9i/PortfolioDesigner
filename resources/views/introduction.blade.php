@@ -30,7 +30,7 @@
         <div class="row">
             <div class="col-9 offset-1">
                 <div class="content" data-aos="fade-right" data-aos-duration="1800">
-                    Michelle Alexandra Kiew; a 3-year trained multimedia designer. For my final year project, I was Head of Programming, Game Environment 3D Modeller and Head Writer for the storyline of my team’s game project. My team and I collectively discussed and agreed on the overall vision for the game and delegated roles based on our strengths and preferred specialized roles. However, as the weeks progressed there was constant change in plans as we faced obstacle after obstacle. As much as our vision and large-scale decisions were affected so was the delegation of roles. UPDATE 
+                    Michelle Alexandra Kiew; a 3-year trained multimedia designer. For my final year project, I was Head of Programming, Game Environment 3D Modeller and Head Writer for the storyline of my team’s game project. My team and I collectively discussed and agreed on the overall vision for the game and delegated roles based on our strengths and preferred specialized roles. However, as the weeks progressed there was constant change in plans as we faced obstacle after obstacle. As much as our vision and large-scale decisions were affected so was asdjlkajsdljsaldjlkasjthe delegation of roles. UPDATE lkfsfjlsajfdjasldkfjlasdjflajsdf
                 </div>
             </div>
         </div>
